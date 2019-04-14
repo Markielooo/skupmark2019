@@ -430,6 +430,20 @@ body > section .kontaktleft	button{
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 16px;
 }
+
+body > section .kontaktleft	button:hover{
+	width: 150px;
+	padding: 10px;
+	border: 1px solid #a27a42;
+	background-color: #A27A42;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 16px;
+}
+
+
 body > section .kontaktleft	span{
 	padding: 10px;
 	font-family: 'Alegreya Sans', sans-serif;
